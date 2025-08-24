@@ -3,6 +3,6 @@
 
 OPTIONS=(-r vsn -r vsp)
 PANELS=(
-	[hx8279-tv101wum-wuxga]="mdss,hx8279-tv101wum-wuxga"
+	[hx8279-tv101wum-wuxga]="samsung,gta2xl-hx8279-tv101wum"
 )
 
